@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-880536241670660ed16d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hi-Debug-30d360f47d2beec4f28f.json",
+					"name" : "hi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hi_autogen-Debug-60b501e132a79287f328.json",
+					"name" : "hi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hi_autogen_timestamp_deps-Debug-4bbbcc882002bbb46310.json",
+					"name" : "hi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/build-hi-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/hi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

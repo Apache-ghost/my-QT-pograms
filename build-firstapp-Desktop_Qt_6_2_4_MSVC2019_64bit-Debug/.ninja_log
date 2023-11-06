@@ -1,0 +1,35 @@
+# ninja log v5
+65	1383	7069869776708909	firstapp_autogen/timestamp	86d682b233848f21
+65	1383	7069869776708909	firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+65	1383	7069869776708909	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/timestamp	86d682b233848f21
+65	1383	7069869776708909	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+1418	7161	7069869835995718	CMakeFiles/firstapp.dir/firstapp_autogen/mocs_compilation.cpp.obj	86c02e1ef38c568f
+1420	7604	7069869840340460	CMakeFiles/firstapp.dir/main.cpp.obj	822c5f53b3eda1c2
+1422	7794	7069869842339503	CMakeFiles/firstapp.dir/mainwindow.cpp.obj	a564be9557761720
+7795	10663	7069869869767900	firstapp.exe	a2fcf36ace466acc
+26	367	7069879773902980	firstapp_autogen/timestamp	86d682b233848f21
+26	367	7069879773902980	firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+26	367	7069879773902980	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/timestamp	86d682b233848f21
+26	367	7069879773902980	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+368	4521	7069879813378955	CMakeFiles/firstapp.dir/firstapp_autogen/mocs_compilation.cpp.obj	86c02e1ef38c568f
+370	4540	7069879816367844	CMakeFiles/firstapp.dir/main.cpp.obj	822c5f53b3eda1c2
+373	4844	7069879819388040	CMakeFiles/firstapp.dir/mainwindow.cpp.obj	a564be9557761720
+4844	5764	7069879826079800	firstapp.exe	a2fcf36ace466acc
+15	171	7069887459302038	firstapp_autogen/timestamp	86d682b233848f21
+15	171	7069887459302038	firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+15	171	7069887459302038	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/timestamp	86d682b233848f21
+15	171	7069887459302038	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+182	3181	7069887489394091	CMakeFiles/firstapp.dir/mainwindow.cpp.obj	a564be9557761720
+3182	3894	7069887494039118	firstapp.exe	a2fcf36ace466acc
+25	310	7069894273989541	firstapp_autogen/timestamp	86d682b233848f21
+25	310	7069894273989541	firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+25	310	7069894273989541	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/timestamp	86d682b233848f21
+25	310	7069894273989541	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+322	3246	7069894303301035	CMakeFiles/firstapp.dir/mainwindow.cpp.obj	a564be9557761720
+3247	3680	7069894306299384	firstapp.exe	a2fcf36ace466acc
+25	267	7070635232516436	firstapp_autogen/timestamp	86d682b233848f21
+25	267	7070635232516436	firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+25	267	7070635232516436	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/timestamp	86d682b233848f21
+25	267	7070635232516436	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-firstapp-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/firstapp_autogen/mocs_compilation.cpp	86d682b233848f21
+282	5281	7070635282620445	CMakeFiles/firstapp.dir/mainwindow.cpp.obj	a564be9557761720
+5281	7489	7070635300208090	firstapp.exe	a2fcf36ace466acc

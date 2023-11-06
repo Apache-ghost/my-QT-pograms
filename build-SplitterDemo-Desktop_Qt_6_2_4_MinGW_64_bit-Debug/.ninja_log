@@ -1,0 +1,9 @@
+# ninja log v5
+2	1351	7074969624821659	SplitterDemo_autogen/timestamp	a8b58f0de872527a
+2	1351	7074969624821659	SplitterDemo_autogen/mocs_compilation.cpp	a8b58f0de872527a
+2	1351	7074969624821659	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-SplitterDemo-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/SplitterDemo_autogen/timestamp	a8b58f0de872527a
+2	1351	7074969624821659	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-SplitterDemo-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/SplitterDemo_autogen/mocs_compilation.cpp	a8b58f0de872527a
+1351	4629	7074969659335996	CMakeFiles/SplitterDemo.dir/SplitterDemo_autogen/mocs_compilation.cpp.obj	594bdcdaa4a1f248
+1353	4999	7074969663052425	CMakeFiles/SplitterDemo.dir/main.cpp.obj	451248d93dfb6e3b
+1354	5359	7074969666652202	CMakeFiles/SplitterDemo.dir/mainwindow.cpp.obj	595b28b03f75858a
+5360	5728	7074969670286057	SplitterDemo.exe	d342e533f2a66ca5

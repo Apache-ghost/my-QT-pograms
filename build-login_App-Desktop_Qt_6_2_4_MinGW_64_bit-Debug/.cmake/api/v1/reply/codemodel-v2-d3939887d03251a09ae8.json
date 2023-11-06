@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-daeb2c83f8e63dcaccac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "login_App",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "login_App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-login_App-Debug-823aab5cb89bb4300d8f.json",
+					"name" : "login_App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "login_App_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-login_App_autogen-Debug-e1f81826e45ee7ed503d.json",
+					"name" : "login_App_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "login_App_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-login_App_autogen_timestamp_deps-Debug-e4aeec1031e476d55f3f.json",
+					"name" : "login_App_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/build-login_App-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/login_App"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

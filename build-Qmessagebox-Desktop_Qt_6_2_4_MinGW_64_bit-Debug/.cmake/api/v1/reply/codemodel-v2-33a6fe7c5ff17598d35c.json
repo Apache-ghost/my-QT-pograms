@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b749c5397d9e9cb9f1f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qmessagebox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qmessagebox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qmessagebox-Debug-4afb404496d00bfb4629.json",
+					"name" : "Qmessagebox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qmessagebox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qmessagebox_autogen-Debug-cb61a90ad0506b6b0266.json",
+					"name" : "Qmessagebox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qmessagebox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qmessagebox_autogen_timestamp_deps-Debug-fec31e251a02871a3d22.json",
+					"name" : "Qmessagebox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/build-Qmessagebox-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/Qmessagebox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-036beca921c15d77771f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ggg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ggg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggg-Debug-4f5e734150823af14742.json",
+					"name" : "ggg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggg_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggg_autogen-Debug-9e11e9c769deffa25d2a.json",
+					"name" : "ggg_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ggg_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ggg_autogen_timestamp_deps-Debug-7cd2bf274511782c49e2.json",
+					"name" : "ggg_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Guegouo M. Guiddel/Desktop/qt/ggg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,17 @@
+# ninja log v5
+1	280	7076580897599964	calender_autogen/timestamp	e4ebf70380e8eb5e
+1	280	7076580897599964	calender_autogen/mocs_compilation.cpp	e4ebf70380e8eb5e
+1	280	7076580897599964	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-calender-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/calender_autogen/timestamp	e4ebf70380e8eb5e
+1	280	7076580897599964	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-calender-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/calender_autogen/mocs_compilation.cpp	e4ebf70380e8eb5e
+2	214	7076582158034225	calender_autogen/timestamp	e4ebf70380e8eb5e
+2	214	7076582158034225	calender_autogen/mocs_compilation.cpp	e4ebf70380e8eb5e
+2	214	7076582158034225	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-calender-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/calender_autogen/timestamp	e4ebf70380e8eb5e
+2	214	7076582158034225	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-calender-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/calender_autogen/mocs_compilation.cpp	e4ebf70380e8eb5e
+4	2508	7077286353920094	calender_autogen/timestamp	e4ebf70380e8eb5e
+4	2508	7077286353920094	calender_autogen/mocs_compilation.cpp	e4ebf70380e8eb5e
+4	2508	7077286353920094	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-calender-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/calender_autogen/timestamp	e4ebf70380e8eb5e
+4	2508	7077286353920094	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-calender-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/calender_autogen/mocs_compilation.cpp	e4ebf70380e8eb5e
+2527	7911	7077286412699365	CMakeFiles/calender.dir/calender_autogen/mocs_compilation.cpp.obj	9dc92cd85ea6b9cf
+2533	7946	7077286412960885	CMakeFiles/calender.dir/main.cpp.obj	ac197ff9bd18af8b
+2535	8633	7077286419908524	CMakeFiles/calender.dir/calendardialog.cpp.obj	5c4958eeb68f8da2
+8634	10899	7077286442487466	calender.exe	fa2fcac2a8558558

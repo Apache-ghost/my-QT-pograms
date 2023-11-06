@@ -1,0 +1,8 @@
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/ggg.dir
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/ggg_autogen_timestamp_deps.dir
+C:/Users/Guegouo M. Guiddel/Desktop/qt/build-ggg-Desktop_Qt_6_2_4_MSVC2019_64bit-Debug/CMakeFiles/ggg_autogen.dir

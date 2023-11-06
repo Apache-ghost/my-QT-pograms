@@ -1,0 +1,9 @@
+# ninja log v5
+4	2130	7075193317367609	Adding_a_window_autogen/timestamp	615962889b6bfc85
+4	2130	7075193317367609	Adding_a_window_autogen/mocs_compilation.cpp	615962889b6bfc85
+4	2130	7075193317367609	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-Adding_a_window-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Adding_a_window_autogen/timestamp	615962889b6bfc85
+4	2130	7075193317367609	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-Adding_a_window-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Adding_a_window_autogen/mocs_compilation.cpp	615962889b6bfc85
+2132	6111	7075193360719905	CMakeFiles/Adding_a_window.dir/Adding_a_window_autogen/mocs_compilation.cpp.obj	166e6233a0473c7f
+2134	6448	7075193364134465	CMakeFiles/Adding_a_window.dir/main.cpp.obj	dec8b6735abe1d98
+2136	6457	7075193364241420	CMakeFiles/Adding_a_window.dir/mainwindow.cpp.obj	2fdd1f4bc82b7272
+6458	7070	7075193370299219	Adding_a_window.exe	3ebe368fe41eba4e

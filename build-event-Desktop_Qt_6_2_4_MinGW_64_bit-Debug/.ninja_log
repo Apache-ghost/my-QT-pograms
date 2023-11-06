@@ -1,0 +1,23 @@
+# ninja log v5
+2	578	7077313837692534	event_autogen/timestamp	906f8e8df25fd01
+2	578	7077313837692534	event_autogen/mocs_compilation.cpp	906f8e8df25fd01
+2	578	7077313837692534	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-event-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/event_autogen/timestamp	906f8e8df25fd01
+2	578	7077313837692534	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-event-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/event_autogen/mocs_compilation.cpp	906f8e8df25fd01
+579	642	7077313839171614	CMakeFiles/event.dir/event_autogen/mocs_compilation.cpp.obj	9d5b142979f58e3a
+582	13658	7077313969358069	CMakeFiles/event.dir/main.cpp.obj	c9ee8d8c25c3785b
+581	14204	7077313974824394	CMakeFiles/event.dir/eventreminder.cpp.obj	745617fb142a15bd
+14205	14925	7077313981971890	event.exe	ad42f71484ccabe
+10	123	7077323596555479	event_autogen/timestamp	906f8e8df25fd01
+10	123	7077323596555479	event_autogen/mocs_compilation.cpp	906f8e8df25fd01
+10	123	7077323596555479	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-event-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/event_autogen/timestamp	906f8e8df25fd01
+10	123	7077323596555479	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-event-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/event_autogen/mocs_compilation.cpp	906f8e8df25fd01
+132	9039	7077323685685724	CMakeFiles/event.dir/main.cpp.obj	c9ee8d8c25c3785b
+131	9209	7077323687372578	CMakeFiles/event.dir/eventreminder.cpp.obj	745617fb142a15bd
+9210	9483	7077323690080862	event.exe	ad42f71484ccabe
+66	795	7079653871991764	event_autogen/timestamp	906f8e8df25fd01
+66	795	7079653871991764	event_autogen/mocs_compilation.cpp	906f8e8df25fd01
+66	795	7079653871991764	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-event-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/event_autogen/timestamp	906f8e8df25fd01
+66	795	7079653871991764	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-event-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/event_autogen/mocs_compilation.cpp	906f8e8df25fd01
+827	35854	7079654222605309	CMakeFiles/event.dir/main.cpp.obj	c9ee8d8c25c3785b
+825	35913	7079654223173769	CMakeFiles/event.dir/eventreminder.cpp.obj	745617fb142a15bd
+35913	38575	7079654249772957	event.exe	ad42f71484ccabe

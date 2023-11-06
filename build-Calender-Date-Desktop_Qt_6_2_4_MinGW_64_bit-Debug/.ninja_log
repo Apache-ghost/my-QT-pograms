@@ -1,0 +1,9 @@
+# ninja log v5
+1	1272	7076544306735800	Calender-Date_autogen/timestamp	8d6bc2928a005596
+1	1272	7076544306735800	Calender-Date_autogen/mocs_compilation.cpp	8d6bc2928a005596
+1	1272	7076544306735800	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-Calender-Date-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Calender-Date_autogen/timestamp	8d6bc2928a005596
+1	1272	7076544306735800	C:/Users/Guegouo M. Guiddel/Desktop/qt/build-Calender-Date-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/Calender-Date_autogen/mocs_compilation.cpp	8d6bc2928a005596
+1297	3954	7076544334839610	CMakeFiles/Calender-Date.dir/Calender-Date_autogen/mocs_compilation.cpp.obj	a7e5a5b6b9d4bf36
+1299	4245	7076544337789081	CMakeFiles/Calender-Date.dir/main.cpp.obj	c31eaab00c210bfa
+1298	4451	7076544339826887	CMakeFiles/Calender-Date.dir/mainwindow.cpp.obj	741b7c50316f86b3
+4451	5045	7076544345759513	Calender-Date.exe	5e2b80eac76771b2
