@@ -1,4 +1,19 @@
-# my-QT-pograms
-There is an app , which function like an event reminder and the other used to calculate the bill electricity of a customer.
-The event reminder is normally supposed to be conected to the database , and also be able to send an email address. But it was a challenge for me.
-The electricity bill calculator is supposed to calculate the consumption of a customer taking some criteria into account. I succeededed . But had challenges to connect it to a database.
+# Practicing Basic C++ Programs on Qt with Joy 🚀
+
+Welcome to the exciting world of Qt programming! Embrace the beauty of C++ by practicing some basic programs in Qt. Let's turn these enchanting algorithms into captivating applications.
+
+## 🌟 Getting Started
+1. **Install Qt:** If you haven't already, [install Qt](https://www.qt.io/download) on your machine. Follow the installation instructions for your operating system.
+
+2. **Set Up a New Project:**
+    - Open Qt Creator.
+    - Click on "New Project" and choose "Qt Widgets Application."
+    - Configure your project settings and click "Next."
+
+3. **Coding Magic:**
+    - Open the main `.cpp` file in your project.
+    - Copy and paste the code for each program into the respective sections.
+
+## ✨ Programs to Practice:
+. **practice with the above programs just to have an introduction to Qt with c++**
+  
